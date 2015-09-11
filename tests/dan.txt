@@ -1,0 +1,319 @@
+_modules/appium-uiauto/bin/command-proxy-client.js /tmp/instruments_sock 2,{"status":0,"value":[]}...
+
+info: [debug] Socket data received (25 bytes)
+info: [debug] Socket data being routed.
+info: [debug] Got result from instruments: {"status":0,"value":[]}
+info: [debug] Waited for 14843ms so far
+
+info: [debug] Pushing command to appium work queue: "au.getElementsByName('OFFLINE')"
+
+info: [debug] Sending command to instruments: au.getElementsByName('OFFLINE')
+
+info: [debug] [INST] 2015-09-03 22:29:17 +0000 Debug: Got new command 111 from instruments: au.getElementsByName('OFFLINE')
+info: [debug] [INST] 2015-09-03 22:29:17 +0000 Debug: evaluating au.getElementsByName('OFFLINE')
+
+info: [debug] [INST] 2015-09-03 22:29:17 +0000 Debug: evaluation finished
+
+info: [debug] [INST] 2015-09-03 22:29:17 +0000 Debug: responding with:
+info: [debug] [INST] 2015-09-03 22:29:17 +0000 Debug: Running system command #112: /Applications/Appium.app/Contents/Resources/node/bin/node /Applications/Appium.app/Contents/Resources/node_modules/appium/node_modules/appium-uiauto/bin/command-proxy-client.js /tmp/instruments_sock 2,{"status":0,"value":[]}...
+info: [debug] Socket data received (25 bytes)
+info: [debug] Socket data being routed.
+info: [debug] Got result from instruments: {"status":0,"value":[]}
+
+info: [debug] Waited for 15531ms so far
+
+info: [debug] Pushing command to appium work queue: "au.getElementsByName('OFFLINE')"
+
+info: [debug] Sending command to instruments: au.getElementsByName('OFFLINE')
+
+info: [debug] [INST] 2015-09-03 22:29:17 +0000 Debug: Got new command 112 from instruments: au.getElementsByName('OFFLINE')
+info: [debug] [INST] 2015-09-03 22:29:17 +0000 Debug: evaluating au.getElementsByName('OFFLINE')
+
+info: [debug] [INST] 2015-09-03 22:29:17 +0000 Debug: evaluation finished
+
+info: [debug] [INST] 2015-09-03 22:29:17 +0000 Debug: responding with:
+info: [debug] [INST] 2015-09-03 22:29:17 +0000 Debug: Running system command #113: /Applications/Appium.app/Contents/Resources/node/bin/node /Applications/Appium.app/Contents/Resources/node_modules/appium/node_modules/appium-uiauto/bin/command-proxy-client.js /tmp/instruments_sock 2,{"status":0,"value":[]}...
+
+info: [debug] Socket data received (25 bytes)
+info: [debug] Socket data being routed.
+info: [debug] Got result from instruments: {"status":0,"value":[]}
+info: [debug] Waited for 16239ms so far
+
+info: [debug] Pushing command to appium work queue: "au.getElementsByName('OFFLINE')"
+
+info: [debug] Sending command to instruments: au.getElementsByName('OFFLINE')
+
+info: [debug] [INST] 2015-09-03 22:29:18 +0000 Debug: Got new command 113 from instruments: au.getElementsByName('OFFLINE')
+
+info: [debug] [INST] 2015-09-03 22:29:18 +0000 Debug: evaluating au.getElementsByName('OFFLINE')
+
+info: [debug] [INST] 2015-09-03 22:29:18 +0000 Debug: evaluation finished
+info: [debug] Socket data received (25 bytes)
+info: [debug] Socket data being routed.
+info: [debug] Got result from instruments: {"status":0,"value":[]}
+info: [debug] Waited for 16932ms so far
+info: [debug] [INST] 2015-09-03 22:29:18 +0000 Debug: responding with:
+info: [debug] [INST] 2015-09-03 22:29:18 +0000 Debug: Running system command #114: /Applications/Appium.app/Contents/Resources/node/bin/node /Applications/Appium.app/Contents/Resources/node_modules/appium/node_modules/appium-uiauto/bin/command-proxy-client.js /tmp/instruments_sock 2,{"status":0,"value":[]}...
+
+info: [debug] Pushing command to appium work queue: "au.getElementsByName('OFFLINE')"
+
+info: [debug] Sending command to instruments: au.getElementsByName('OFFLINE')
+
+info: [debug] [INST] 2015-09-03 22:29:19 +0000 Debug: Got new command 114 from instruments: au.getElementsByName('OFFLINE')
+
+info: [debug] [INST] 2015-09-03 22:29:19 +0000 Debug: evaluating au.getElementsByName('OFFLINE')
+
+info: [debug] [INST] 2015-09-03 22:29:19 +0000 Debug: evaluation finished
+info: [debug] [INST] 2015-09-03 22:29:19 +0000 Debug: responding with:
+
+info: [debug] [INST] 2015-09-03 22:29:19 +0000 Debug: Running system command #115: /Applications/Appium.app/Contents/Resources/node/bin/node /Applications/Appium.app/Contents/Resources/node_modules/appium/node_modules/appium-uiauto/bin/command-proxy-client.js /tmp/instruments_sock 2,{"status":0,"value":[]}...
+info: [debug] Socket data received (25 bytes)
+info: [debug] Socket data being routed.
+info: [debug] Got result from instruments: {"status":0,"value":[]}
+info: [debug] Waited for 17654ms so far
+
+info: [debug] Pushing command to appium work queue: "au.getElementsByName('OFFLINE')"
+
+info: [debug] Sending command to instruments: au.getElementsByName('OFFLINE')
+
+info: [debug] [INST] 2015-09-03 22:29:19 +0000 Debug: Got new command 115 from instruments: au.getElementsByName('OFFLINE')
+
+info: [debug] [INST] 2015-09-03 22:29:19 +0000 Debug: evaluating au.getElementsByName('OFFLINE')
+info: [debug] [INST] 2015-09-03 22:29:20 +0000 Debug: evaluation finished
+
+info: [debug] [INST] 2015-09-03 22:29:20 +0000 Debug: responding with:
+info: [debug] [INST] 2015-09-03 22:29:20 +0000 Debug: Running system command #116: /Applications/Appium.app/Contents/Resources/node/bin/node /Applications/Appium.app/Contents/Resources/node_modules/appium/node_modules/appium-uiauto/bin/command-proxy-client.js /tmp/instruments_sock 2,{"status":0,"value":[]}...
+info: [debug] Socket data received (25 bytes)
+info: [debug] Socket data being routed.
+info: [debug] Got result from instruments: {"status":0,"value":[]}
+info: [debug] Waited for 18370ms so far
+
+info: --> GET /wd/hub/status {}
+
+info: [debug] Responding to client with success: {"status":0,"value":{"build":{"version":"1.4.8","revision":"c8179bd8352d3c62d98fa58b324491230df9342a"},"isShuttingDown":false},"sessionId":"c49da01d-151a-46ba-a1cb-c1a40d34e6ad"}
+info: <-- GET /wd/hub/status 200 0.662 ms - 178 {"status":0,"value":{"build":{"version":"1.4.8","revision":"c8179bd8352d3c62d98fa58b324491230df9342a"},"isShuttingDown":false},"sessionId":"c49da01d-151a-46ba-a1cb-c1a40d34e6ad"}
+
+info: [debug] Pushing command to appium work queue: "au.getElementsByName('OFFLINE')"
+
+info: [debug] Sending command to instruments: au.getElementsByName('OFFLINE')
+
+info: [debug] [INST] 2015-09-03 22:29:20 +0000 Debug: Got new command 116 from instruments: au.getElementsByName('OFFLINE')
+info: [debug] [INST] 2015-09-03 22:29:20 +0000 Debug: evaluating au.getElementsByName('OFFLINE')
+info: [debug] [INST] 2015-09-03 22:29:20 +0000 Debug: evaluation finished
+
+info: [debug] [INST] 2015-09-03 22:29:20 +0000 Debug: responding with:
+info: [debug] [INST] 2015-09-03 22:29:20 +0000 Debug: Running system command #117: /Applications/Appium.app/Contents/Resources/node/bin/node /Applications/Appium.app/Contents/Resources/node_modules/appium/node_modules/appium-uiauto/bin/command-proxy-client.js /tmp/instruments_sock 2,{"status":0,"value":[]}...
+
+info: [debug] Socket data received (25 bytes)
+info: [debug] Socket data being routed.
+info: [debug] Got result from instruments: {"status":0,"value":[]}
+info: [debug] Waited for 19055ms so far
+
+info: [debug] Pushing command to appium work queue: "au.getElementsByName('OFFLINE')"
+
+info: [debug] Sending command to instruments: au.getElementsByName('OFFLINE')
+
+info: [debug] [INST] 2015-09-03 22:29:21 +0000 Debug: Got new command 117 from instruments: au.getElementsByName('OFFLINE')
+info: [debug] [INST] 2015-09-03 22:29:21 +0000 Debug: evaluating au.getElementsByName('OFFLINE')
+
+info: [debug] [INST] 2015-09-03 22:29:21 +0000 Debug: evaluation finished
+
+info: [debug] [INST] 2015-09-03 22:29:21 +0000 Debug: responding with:
+info: [debug] [INST] 2015-09-03 22:29:21 +0000 Debug: Running system command #118: /Applications/Appium.app/Contents/Resources/node/bin/node /Applications/Appium.app/Contents/Resources/node_modules/appium/node_modules/appium-uiauto/bin/command-proxy-client.js /tmp/instruments_sock 2,{"status":0,"value":[]}...
+info: [debug] Socket data received (25 bytes)
+info: [debug] Socket data being routed.
+info: [debug] Got result from instruments: {"status":0,"value":[]}
+info: [debug] Waited for 19748ms so far
+
+info: [debug] Pushing command to appium work queue: "au.getElementsByName('OFFLINE')"
+
+info: [debug] Sending command to instruments: au.getElementsByName('OFFLINE')
+
+info: [debug] [INST] 2015-09-03 22:29:22 +0000 Debug: Got new command 118 from instruments: au.getElementsByName('OFFLINE')
+
+info: [debug] [INST] 2015-09-03 22:29:22 +0000 Debug: evaluating au.getElementsByName('OFFLINE')
+
+info: [debug] Socket data received (25 bytes)
+info: [debug] Socket data being routed.
+info: [debug] Got result from instruments: {"status":0,"value":[]}
+info: [debug] Waited for 20442ms so far
+info: [debug] [INST] 2015-09-03 22:29:22 +0000 Debug: evaluation finished
+info: [debug] [INST] 2015-09-03 22:29:22 +0000 Debug: responding with:
+info: [debug] [INST] 2015-09-03 22:29:22 +0000 Debug: Running system command #119: /Applications/Appium.app/Contents/Resources/node/bin/node /Applications/Appium.app/Contents/Resources/node_modules/appium/node_modules/appium-uiauto/bin/command-proxy-client.js /tmp/instruments_sock 2,{"status":0,"value":[]}...
+
+info: [debug] Pushing command to appium work queue: "au.getElementsByName('OFFLINE')"
+
+info: [debug] Sending command to instruments: au.getElementsByName('OFFLINE')
+
+info: <-- POST /wd/hub/session/c49da01d-151a-46ba-a1cb-c1a40d34e6ad/elements - - ms - - 
+
+info: [debug] [INST] 2015-09-03 22:29:22 +0000 Debug: Got new command 119 from instruments: au.getElementsByName('OFFLINE')
+
+info: [debug] [INST] 2015-09-03 22:29:22 +0000 Debug: evaluating au.getElementsByName('OFFLINE')
+info: [debug] [INST] 2015-09-03 22:29:22 +0000 Debug: evaluation finished
+info: [debug] [INST] 2015-09-03 22:29:22 +0000 Debug: responding with:
+
+info: [debug] [INST] 2015-09-03 22:29:22 +0000 Debug: Running system command #120: /Applications/Appium.app/Contents/Resources/node/bin/node /Applications/Appium.app/Contents/Resources/node_modules/appium/node_modules/appium-uiauto/bin/command-proxy-client.js /tmp/instruments_sock 2,{"status":0,"value":[]}...
+info: [debug] Socket data received (25 bytes)
+info: [debug] Socket data being routed.
+info: [debug] Got result from instruments: {"status":0,"value":[]}
+info: [debug] Waited for 21177ms so far
+
+info: [debug] Pushing command to appium work queue: "au.getElementsByName('OFFLINE')"
+
+info: [debug] Sending command to instruments: au.getElementsByName('OFFLINE')
+
+info: [debug] [INST] 2015-09-03 22:29:23 +0000 Debug: Got new command 120 from instruments: au.getElementsByName('OFFLINE')
+
+info: [debug] [INST] 2015-09-03 22:29:23 +0000 Debug: evaluating au.getElementsByName('OFFLINE')
+
+info: [debug] [INST] 2015-09-03 22:29:23 +0000 Debug: evaluation finished
+info: [debug] [INST] 2015-09-03 22:29:23 +0000 Debug: responding with:
+info: [debug] [INST] 2015-09-03 22:29:23 +0000 Debug: Running system command #121: /Applications/Appium.app/Contents/Resources/node/bin/node /Applications/Appium.app/Contents/Resources/node_modules/appium/node_modules/appium-uiauto/bin/command-proxy-client.js /tmp/instruments_sock 2,{"status":0,"value":[]}...
+info: [debug] Socket data received (25 bytes)
+info: [debug] Socket data being routed.
+info: [debug] Got result from instruments: {"status":0,"value":[]}
+info: [debug] Waited for 21883ms so far
+
+info: [debug] Pushing command to appium work queue: "au.getElementsByName('OFFLINE')"
+
+info: [debug] Sending command to instruments: au.getElementsByName('OFFLINE')
+
+info: [debug] [INST] 2015-09-03 22:29:24 +0000 Debug: Got new command 121 from instruments: au.getElementsByName('OFFLINE')
+
+info: [debug] [INST] 2015-09-03 22:29:24 +0000 Debug: evaluating au.getElementsByName('OFFLINE')
+info: [debug] [INST] 2015-09-03 22:29:24 +0000 Debug: evaluation finished
+info: [debug] [INST] 2015-09-03 22:29:24 +0000 Debug: responding with:
+info: [debug] [INST] 2015-09-03 22:29:24 +0000 Debug: Running system command #122: /Applications/Appium.app/Contents/Resources/node/bin/node /Applications/Appium.app/Contents/Resources/node_modules/appium/node_modules/appium-uiauto/bin/command-proxy-client.js /tmp/instruments_sock 2,{"status":0,"value":[]}...
+
+info: [debug] Socket data received (25 bytes)
+
+info: [debug] Socket data being routed.
+info: [debug] Got result from instruments: {"status":0,"value":[]}
+info: [debug] Waited for 22601ms so far
+
+info: [debug] Pushing command to appium work queue: "au.getElementsByName('OFFLINE')"
+
+info: [debug] Sending command to instruments: au.getElementsByName('OFFLINE')
+
+info: [debug] [INST] 2015-09-03 22:29:24 +0000 Debug: Got new command 122 from instruments: au.getElementsByName('OFFLINE')
+
+info: [debug] Socket data received (25 bytes)
+
+info: [debug] Socket data being routed.
+info: [debug] Got result from instruments: {"status":0,"value":[]}
+info: [debug] Waited for 23275ms so far
+info: [debug] [INST] 2015-09-03 22:29:24 +0000 Debug: evaluating au.getElementsByName('OFFLINE')
+info: [debug] [INST] 2015-09-03 22:29:24 +0000 Debug: evaluation finished
+info: [debug] [INST] 2015-09-03 22:29:24 +0000 Debug: responding with:
+info: [debug] [INST] 2015-09-03 22:29:24 +0000 Debug: Running system command #123: /Applications/Appium.app/Contents/Resources/node/bin/node /Applications/Appium.app/Contents/Resources/node_modules/appium/node_modules/appium-uiauto/bin/command-proxy-client.js /tmp/instruments_sock 2,{"status":0,"value":[]}...
+
+info: [debug] Pushing command to appium work queue: "au.getElementsByName('OFFLINE')"
+
+info: [debug] Sending command to instruments: au.getElementsByName('OFFLINE')
+
+info: [debug] [INST] 2015-09-03 22:29:25 +0000 Debug: Got new command 123 from instruments: au.getElementsByName('OFFLINE')
+
+info: [debug] [INST] 2015-09-03 22:29:25 +0000 Debug: evaluating au.getElementsByName('OFFLINE')
+
+info: [debug] [INST] 2015-09-03 22:29:25 +0000 Debug: evaluation finished
+info: [debug] [INST] 2015-09-03 22:29:25 +0000 Debug: responding with:
+       2015-09-03 22:29:25 +0000 Debug: Running system command #124: /Applications/Appium.app/Contents/Resources/node/bin/node /Applications/Appium.app/Contents/Resources/node_modules/appium/node_modules/appium-uiauto/bin/command-proxy-client.js /tmp/instruments_sock 2,{"status":0,"value":[]}...
+info: [debug] Socket data received (25 bytes)
+info: [debug] Socket data being routed.
+info: [debug] Got result from instruments: {"status":0,"value":[]}
+info: [debug] Waited for 24037ms so far
+
+info: [debug] Pushing command to appium work queue: "au.getElementsByName('OFFLINE')"
+
+info: [debug] Sending command to instruments: au.getElementsByName('OFFLINE')
+
+info: [debug] [INST] 2015-09-03 22:29:26 +0000 Debug: Got new command 124 from instruments: au.getElementsByName('OFFLINE')
+
+info: [debug] [INST] 2015-09-03 22:29:26 +0000 Debug: evaluating au.getElementsByName('OFFLINE')
+info: [debug] [INST] 2015-09-03 22:29:26 +0000 Debug: evaluation finished
+info: [debug] [INST] 2015-09-03 22:29:26 +0000 Debug: responding with:
+
+info: [debug] [INST] 2015-09-03 22:29:26 +0000 Debug: Running system command #125: /Applications/Appium.app/Contents/Resources/node/bin/node /Applications/Appium.app/Contents/Resources/node_modules/appium/node_modules/appium-uiauto/bin/command-proxy-client.js /tmp/instruments_sock 2,{"status":0,"value":[]}...
+info: [debug] Socket data received (25 bytes)
+info: [debug] Socket data being routed.
+info: [debug] Got result from instruments: {"status":0,"value":[]}
+info: [debug] Waited for 24731ms so far
+
+info: [debug] Pushing command to appium work queue: "au.getElementsByName('OFFLINE')"
+
+info: [debug] Sending command to instruments: au.getElementsByName('OFFLINE')
+
+info: [debug] [INST] 2015-09-03 22:29:27 +0000 Debug: Got new command 125 from instruments: au.getElementsByName('OFFLINE')
+info: [debug] [INST] 2015-09-03 22:29:27 +0000 Debug: evaluating au.getElementsByName('OFFLINE')
+
+info: [debug] [INST] 2015-09-03 22:29:27 +0000 Debug: evaluation finished
+info: [debug] [INST] 2015-09-03 22:29:27 +0000 Debug: responding with:
+info: [debug] [INST] 2015-09-03 22:29:27 +0000 Debug: Running system command #126: /Applications/Appium.app/Contents/Resources/node/bin/node /Applications/Appium.app/Contents/Resources/node_modules/appium/node_modules/appium-uiauto/bin/command-proxy-client.js /tmp/instruments_sock 2,{"status":0,"value":[]}...
+
+info: [debug] Socket data received (25 bytes)
+
+info: [debug] Socket data being routed.
+info: [debug] Got result from instruments: {"status":0,"value":[]}
+info: [debug] Waited for 25445ms so far
+
+info: [debug] Pushing command to appium work queue: "au.getElementsByName('OFFLINE')"
+
+info: [debug] Sending command to instruments: au.getElementsByName('OFFLINE')
+
+undefined
+
+info: [debug] [INST] 2015-09-03 22:29:27 +0000 Debug: Got new command 126 from instruments: au.getElementsByName('OFFLINE')
+
+info: [debug] [INST] 2015-09-03 22:29:27 +0000 Debug: evaluating au.getElementsByName('OFFLINE')
+info: [debug] [INST] 2015-09-03 22:29:27 +0000 Debug: evaluation finished
+
+info: [debug] [INST] 2015-09-03 22:29:27 +0000 Debug: responding with:
+info: [debug] [INST] 2015-09-03 22:29:27 +0000 Debug: Running system command #127: /Applications/Appium.app/Contents/Resources/node/bin/node /Applications/Appium.app/Contents/Resources/node_modules/appium/node_modules/appium-uiauto/bin/command-proxy-client.js /tmp/instruments_sock 2,{"status":0,"value":[]}...
+
+info: [debug] Socket data received (25 bytes)
+info: [debug] Socket data being routed.
+info: [debug] Got result from instruments: {"status":0,"value":[]}
+info: [debug] Waited for 26207ms so far
+
+info: [debug] Pushing command to appium work queue: "au.getElementsByName('OFFLINE')"
+
+info: [debug] Sending command to instruments: au.getElementsByName('OFFLINE')
+
+info: [debug] [INST] 2015-09-03 22:29:28 +0000 Debug: Got new command 127 from instruments: au.getElementsByName('OFFLINE')
+
+info: [debug] [INST] 2015-09-03 22:29:28 +0000 Debug: evaluating au.getElementsByName('OFFLINE')
+info: [debug] [INST] 2015-09-03 22:29:28 +0000 Debug: evaluation finished
+
+info: [debug] [INST] 2015-09-03 22:29:28 +0000 Debug: responding with:
+info: [debug] [INST] 2015-09-03 22:29:28 +0000 Debug: Running system command #128: /Applications/Appium.app/Contents/Resources/node/bin/node /Applications/Appium.app/Contents/Resources/node_modules/appium/node_modules/appium-uiauto/bin/command-proxy-client.js /tmp/instruments_sock 2,{"status":0,"value":[]}...
+
+info: [debug] Socket data received (25 bytes)
+info: [debug] Socket data being routed.
+info: [debug] Got result from instruments: {"status":0,"value":[]}
+info: [debug] Waited for 26919ms so far
+
+info: [debug] Pushing command to appium work queue: "au.getElementsByName('OFFLINE')"
+
+info: [debug] Sending command to instruments: au.getElementsByName('OFFLINE')
+
+info: [debug] [INST] 2015-09-03 22:29:29 +0000 Debug: Got new command 128 from instruments: au.getElementsByName('OFFLINE')
+info: [debug] [INST] 2015-09-03 22:29:29 +0000 Debug: evaluating au.getElementsByName('OFFLINE')
+
+info: [debug] [INST] 2015-09-03 22:29:29 +0000 Debug: evaluation finished
+
+info: [debug] [INST] 2015-09-03 22:29:29 +0000 Debug: responding with:
+info: [debug] [INST] 2015-09-03 22:29:29 +0000 Debug: Running system command #129: /Applications/Appium.app/Contents/Resources/node/bin/node /Applications/Appium.app/Contents/Resources/node_modules/appium/node_modules/appium-uiauto/bin/command-proxy-client.js /tmp/instruments_sock 2,{"status":0,"value":[]}...
+
+info: [debug] Socket data received (25 bytes)
+info: [debug] Socket data being routed.
+info: [debug] Got result from instruments: {"status":0,"value":[]}
+info: [debug] Waited for 27626ms so far
+
+info: [debug] Pushing command to appium work queue: "au.getElementsByName('OFFLINE')"
+
+info: [debug] Sending command to instruments: au.getElementsByName('OFFLINE')
+
+info: [debug] [INST] 2015-09-03 22:29:29 +0000 Debug: Got new command 129 from instruments: au.getElementsByName('OFFLINE')
+
+

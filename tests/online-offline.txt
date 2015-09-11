@@ -1,0 +1,10 @@
+#        online_status = self.driver.find_elements_by_name('ONLINE')
+#        offline_status = self.driver.find_elements_by_name('OFFLINE')
+
+#        assert len(online_status) + len(offline_status) == 1, "Neither ONLINE nor OFFLINE status displayed on Your PHA page"
+
+#        if (len(offline_status) > 0):
+#          print 'offline'
+#        else:
+#          print 'online'
+
